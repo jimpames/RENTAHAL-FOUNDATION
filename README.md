@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/jimpames/rentahal/blob/main/rahfoundationpng.png?raw=true" alt="RENT A HAL Banner" width="100%">
+</p>
 # RENTAHAL-FOUNDATION
 RENTAHAL FOUNDATION
 PREAMBLE
