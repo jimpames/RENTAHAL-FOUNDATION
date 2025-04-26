@@ -239,4 +239,4 @@ To learn more about the RENTAHAL ecosystem:
 
 ## License
 
-All RENTAHAL Foundation core technologies are released under the [MIT License](LICENSE).
+All RENTAHAL Foundation core technologies are released under the GNU GPL 3 License.
